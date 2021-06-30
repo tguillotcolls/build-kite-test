@@ -1,0 +1,5 @@
+version: 1
+type: admiral
+team: video-product-engineering
+jira_project_id: VPE
+other_admiral_roles: []
